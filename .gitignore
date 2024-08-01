@@ -6,9 +6,13 @@
 /diving-deeper-02/node_modules
 
 # Cypress directories
-/cypress/videos
-/cypress/screenshots
-/cypress/results
+/cypress-basics-01/cypress/videos
+/cypress-basics-01/cypress/screenshots
+/cypress-basics-01/cypress/results
+
+/diving-deeper-02/cypress/videos
+/diving-deeper-02/cypress/screenshots
+/diving-deeper-02/cypress/results
 
 # Environment variables
 .env
