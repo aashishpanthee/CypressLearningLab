@@ -2,9 +2,12 @@
 /node_modules
 /build
 /dist
+
+
 /cypress-basics-01/node_modules
 /diving-deeper-02/node_modules
 /Configuration&Customization/node_modules
+/Stubs,Spies,Fixtures&ManipulatingTheClock/node_modules
 
 # Cypress directories
 /cypress-basics-01/cypress/videos
@@ -18,6 +21,10 @@
 /Configuration&Customization/cypress/videos
 /Configuration&Customization/cypress/screenshots
 /Configuration&Customization/cypress/results
+
+/Stubs,Spies,Fixtures&ManipulatingTheClock/cypress/videos
+/Stubs,Spies,Fixtures&ManipulatingTheClock/cypress/screenshots
+/Stubs,Spies,Fixtures&ManipulatingTheClock/cypress/results
 
 # Environment variables
 .env
