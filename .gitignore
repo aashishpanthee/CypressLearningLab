@@ -8,6 +8,8 @@
 /diving-deeper-02/node_modules
 /Configuration&Customization/node_modules
 /Stubs,Spies,Fixtures&ManipulatingTheClock/node_modules
+/Network-Request-04/node_modules
+
 
 # Cypress directories
 /cypress-basics-01/cypress/videos
@@ -25,6 +27,10 @@
 /Stubs,Spies,Fixtures&ManipulatingTheClock/cypress/videos
 /Stubs,Spies,Fixtures&ManipulatingTheClock/cypress/screenshots
 /Stubs,Spies,Fixtures&ManipulatingTheClock/cypress/results
+
+/Network-Request-04/cypress/videos
+/Network-Request-04/cypress/screenshots
+/Network-Request-04/cypress/results
 
 # Environment variables
 .env
